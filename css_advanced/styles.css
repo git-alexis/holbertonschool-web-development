@@ -160,7 +160,7 @@
   }
   
   .picture-pros .picture-pro {
-    width: 9.375rem;
+    width: 10rem;
     text-align: center;
   }
   
@@ -221,7 +221,7 @@
   }
   
   .quote-text {
-    font-size: 1.375rem;
+    font-size: 1.29rem;
     font-weight: var(--font-weight-normal);
     line-height: 2.1rem;
     margin: 0 0 0.5rem 0;
