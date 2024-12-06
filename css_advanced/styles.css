@@ -122,7 +122,6 @@
     font-size: 0.875rem;
     font-weight: 600;
     margin: 20px auto;
-    padding: 10px 30px;
     width: 12.5rem;
     height: 2.9rem;
     border: none;
@@ -168,7 +167,6 @@
     width: 9.375rem;
     height: 9.375rem;
     border-radius: var(--border-radius-round);
-    margin-bottom: 20px;
   }
   
   .picture-pros h3 {
